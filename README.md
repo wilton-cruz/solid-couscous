@@ -7,3 +7,4 @@
 Html5 Boilerplate with Flask Framework and Flask-Assets.
 
 ![alt text][logo]
+# solid-couscous
